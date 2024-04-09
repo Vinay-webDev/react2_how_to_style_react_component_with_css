@@ -7,7 +7,7 @@ there are 3 different ways to style react components
 3. INLINE 
 */
 
-import Button from './Button/Button.jsx'
+import Button from './Button.jsx'
 
 function App() {
   
